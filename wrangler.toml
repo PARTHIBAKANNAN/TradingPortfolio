@@ -1,0 +1,10 @@
+name = "trade-portfolio"
+compatibility_date = "2026-07-15"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "trade_portfolio_db"
+# Replace with the real ID printed by `wrangler d1 create trade_portfolio_db`
+database_id = "00000000-0000-0000-0000-000000000001"
+migrations_dir = "migrations"

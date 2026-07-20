@@ -1,0 +1,89 @@
+[
+  {
+    "__EMPTY": "Charges & Taxes for Futures & options from 01-03-2026 to 19-07-2026"
+  },
+  {
+    "__EMPTY": "Type",
+    "__EMPTY_1": "Amount"
+  },
+  {
+    "__EMPTY": "BROKERAGE",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "CGST",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "CM_CHARGES_INTRADAY",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "CMCHARGES",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "CTT",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "EXCHANGE_TRANSACTION_CHARGES",
+    "__EMPTY_1": 754.23
+  },
+  {
+    "__EMPTY": "EXCHANGE_TURN_OVER_CHARGES",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "IBT_BROKERAGE",
+    "__EMPTY_1": 2520
+  },
+  {
+    "__EMPTY": "IGST",
+    "__EMPTY_1": 637.76
+  },
+  {
+    "__EMPTY": "SEBI_TURNOVER_CHARGES",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "SEBI_TURNOVER_FEES",
+    "__EMPTY_1": 2.97
+  },
+  {
+    "__EMPTY": "SEBITOC",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "SGST",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "STAMP_DUTY",
+    "__EMPTY_1": 47
+  },
+  {
+    "__EMPTY": "STT",
+    "__EMPTY_1": 2175
+  },
+  {
+    "__EMPTY": "TOC_BSE_Exchange",
+    "__EMPTY_1": 265.72999999999996
+  },
+  {
+    "__EMPTY": "TOC_NSE_Exchange",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "TOT",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "TURN_OVER_CHARGE",
+    "__EMPTY_1": 0
+  },
+  {
+    "__EMPTY": "SEBI_TURNOVER_FEES",
+    "__EMPTY_1": 2.97
+  }
+]

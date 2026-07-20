@@ -1,0 +1,522 @@
+[
+  {
+    "symbol": "GOLDBEES",
+    "companyName": "NIP IND ETF GOLD BEES",
+    "tradeType": "BUY",
+    "quantity": 8,
+    "price": 117.33,
+    "tradeDate": "2026-02-02",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KB17I5, Order ID: 1770003900005116982"
+  },
+  {
+    "symbol": "GOLDBEES",
+    "companyName": "NIP IND ETF GOLD BEES",
+    "tradeType": "SELL",
+    "quantity": 1,
+    "price": 120.43,
+    "tradeDate": "2026-02-02",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KB17I5, Order ID: 1100000034361742"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 216.25,
+    "tradeDate": "2026-02-02",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000096170838"
+  },
+  {
+    "symbol": "GOLDBEES",
+    "companyName": "NIP IND ETF GOLD BEES",
+    "tradeType": "BUY",
+    "quantity": 23,
+    "price": 116.97,
+    "tradeDate": "2026-02-02",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KB17I5, Order ID: 1100000104536895"
+  },
+  {
+    "symbol": "GOLDBEES",
+    "companyName": "NIP IND ETF GOLD BEES",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 125.2,
+    "tradeDate": "2026-02-03",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KB17I5, Order ID: 1770107697659538480"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 233.63,
+    "tradeDate": "2026-02-05",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1770263100002485402"
+  },
+  {
+    "symbol": "MANINDS",
+    "companyName": "MAN INDUSTRIES (I) LTD.",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 416,
+    "tradeDate": "2026-02-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE993A01026, Order ID: 1200000009732517"
+  },
+  {
+    "symbol": "MANINDS",
+    "companyName": "MAN INDUSTRIES (I) LTD.",
+    "tradeType": "BUY",
+    "quantity": 1,
+    "price": 422.25,
+    "tradeDate": "2026-02-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE993A01026, Order ID: 1200000014804858"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 230.71,
+    "tradeDate": "2026-02-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000015391962"
+  },
+  {
+    "symbol": "MANINDS",
+    "companyName": "MAN INDUSTRIES (I) LTD.",
+    "tradeType": "BUY",
+    "quantity": 14,
+    "price": 418,
+    "tradeDate": "2026-02-16",
+    "source": "csv_groww",
+    "notes": "ISIN: INE993A01026, Order ID: 1200000002843171"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 4,
+    "price": 224.24,
+    "tradeDate": "2026-02-16",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000011203530"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 16,
+    "price": 222.09,
+    "tradeDate": "2026-02-17",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000070943435"
+  },
+  {
+    "symbol": "ITCHOTELS",
+    "companyName": "ITC HOTELS LIMITED",
+    "tradeType": "BUY",
+    "quantity": 15,
+    "price": 179.28,
+    "tradeDate": "2026-02-19",
+    "source": "csv_groww",
+    "notes": "ISIN: INE379A01028, Order ID: 1100000024493610"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 330.15,
+    "tradeDate": "2026-02-19",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1771471800181819034"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 131.03,
+    "tradeDate": "2026-02-24",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000020341294"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 323.75,
+    "tradeDate": "2026-02-24",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1100000022521337"
+  },
+  {
+    "symbol": "OFSS",
+    "companyName": "ORACLE FIN SERV SOFT LTD.",
+    "tradeType": "BUY",
+    "quantity": 3,
+    "price": 6575,
+    "tradeDate": "2026-02-25",
+    "source": "csv_groww",
+    "notes": "ISIN: INE881D01027, Order ID: 1200000011622097"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "BUY",
+    "quantity": 4,
+    "price": 2616.8,
+    "tradeDate": "2026-02-25",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1300000008740518"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 123,
+    "tradeDate": "2026-03-04",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000031135713"
+  },
+  {
+    "symbol": "ITCHOTELS",
+    "companyName": "ITC HOTELS LIMITED",
+    "tradeType": "SELL",
+    "quantity": 15,
+    "price": 162.86,
+    "tradeDate": "2026-03-04",
+    "source": "csv_groww",
+    "notes": "ISIN: INE379A01028, Order ID: 1100000033022044"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "BUY",
+    "quantity": 2,
+    "price": 2572,
+    "tradeDate": "2026-03-05",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1300000006666349"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 119.82,
+    "tradeDate": "2026-03-10",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000010198065"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 121.56,
+    "tradeDate": "2026-03-11",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000082036717"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 119.68,
+    "tradeDate": "2026-03-12",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000000638754"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 118,
+    "tradeDate": "2026-03-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000005786081"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 118.43,
+    "tradeDate": "2026-03-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000006560140"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 20,
+    "price": 219.34,
+    "tradeDate": "2026-03-19",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000096426198"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 300,
+    "tradeDate": "2026-03-20",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1100000003334974"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 202.5,
+    "tradeDate": "2026-03-23",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000018102416"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 294.45,
+    "tradeDate": "2026-03-23",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1100000020952278"
+  },
+  {
+    "symbol": "GOLDBEES",
+    "companyName": "NIP IND ETF GOLD BEES",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 113.92,
+    "tradeDate": "2026-03-23",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KB17I5, Order ID: 1100000021169360"
+  },
+  {
+    "symbol": "OFSS",
+    "companyName": "ORACLE FIN SERV SOFT LTD.",
+    "tradeType": "SELL",
+    "quantity": 3,
+    "price": 6954,
+    "tradeDate": "2026-03-27",
+    "source": "csv_groww",
+    "notes": "ISIN: INE881D01027, Order ID: 1774602363010115096"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 294.7,
+    "tradeDate": "2026-03-27",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1774600398221512269"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 213,
+    "tradeDate": "2026-03-27",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000101020612"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 292,
+    "tradeDate": "2026-03-30",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1774844590406299481"
+  },
+  {
+    "symbol": "MANINDS",
+    "companyName": "MAN INDUSTRIES (I) LTD.",
+    "tradeType": "SELL",
+    "quantity": 20,
+    "price": 432,
+    "tradeDate": "2026-04-08",
+    "source": "csv_groww",
+    "notes": "ISIN: INE993A01026, Order ID: 1775634209826092228"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "companyName": "SAMVRDHNA MTHRSN INTL LTD",
+    "tradeType": "SELL",
+    "quantity": 50,
+    "price": 136.36,
+    "tradeDate": "2026-05-25",
+    "source": "csv_groww",
+    "notes": "ISIN: INE775A01035, Order ID: 1200000015609147"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "SELL",
+    "quantity": 10,
+    "price": 256,
+    "tradeDate": "2026-05-25",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000017367263"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC LTD",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 285.2,
+    "tradeDate": "2026-06-01",
+    "source": "csv_groww",
+    "notes": "ISIN: INE154A01025, Order ID: 1100000018707110"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "SELL",
+    "quantity": 1,
+    "price": 2091,
+    "tradeDate": "2026-07-10",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1300000007174834"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 5,
+    "price": 206,
+    "tradeDate": "2026-07-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000029380435"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 4,
+    "price": 206.7,
+    "tradeDate": "2026-07-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000029782105"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "SELL",
+    "quantity": 1,
+    "price": 2151,
+    "tradeDate": "2026-07-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1783921416634119905"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "SELL",
+    "quantity": 1,
+    "price": 2152,
+    "tradeDate": "2026-07-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1300000040262187"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "SELL",
+    "quantity": 1,
+    "price": 2195,
+    "tradeDate": "2026-07-13",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1300000049119050"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 207,
+    "tradeDate": "2026-07-14",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000010053708"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "TATA CONSULTANCY SERV LT",
+    "tradeType": "SELL",
+    "quantity": 2,
+    "price": 2195,
+    "tradeDate": "2026-07-15",
+    "source": "csv_groww",
+    "notes": "ISIN: INE467B01029, Order ID: 1784086200008733961"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 1,
+    "price": 209.65,
+    "tradeDate": "2026-07-15",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000008738735"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 209,
+    "tradeDate": "2026-07-15",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000001107198"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 208,
+    "tradeDate": "2026-07-15",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000039346534"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 207.3,
+    "tradeDate": "2026-07-16",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000001200424"
+  },
+  {
+    "symbol": "SILVERBEES",
+    "companyName": "NIPPONAMC - NETFSILVER",
+    "tradeType": "BUY",
+    "quantity": 10,
+    "price": 203.5,
+    "tradeDate": "2026-07-17",
+    "source": "csv_groww",
+    "notes": "ISIN: INF204KC1402, Order ID: 1300000024520630"
+  }
+]
