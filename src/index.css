@@ -213,6 +213,7 @@
     mask-composite: exclude;
     opacity: 0;
     transition: opacity 0.3s ease;
+    pointer-events: none;
   }
 
   .card-premium:hover {
@@ -247,6 +248,7 @@
     background: radial-gradient(circle at 30% 30%, rgba(37, 99, 235, 0.1) 0%, transparent 60%);
     opacity: 0;
     transition: opacity 0.3s ease;
+    pointer-events: none;
   }
 
   .kpi-card:hover {

@@ -6,6 +6,7 @@ compatibility_date = "2026-07-15"
 binding = "DB"
 database_name = "trade_portfolio_db"
 database_id = "6bf1ce82-668c-440f-b2bb-f106b3ec0445"
+migrations_dir = "../migrations"
 
 # 9:00 AM IST daily — comfortably after both brokers' ~7AM IST token/session reset.
 [triggers]
