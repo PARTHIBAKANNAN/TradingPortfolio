@@ -2,10 +2,8 @@ name = "trade-portfolio"
 compatibility_date = "2026-07-15"
 pages_build_output_dir = "dist"
 
-# D1 Database binding (optional - app uses Supabase instead)
-# To use D1, uncomment below and set your actual database_id
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "trade_portfolio_db"
-# database_id = "your-actual-database-id"
-# migrations_dir = "migrations"
+[[d1_databases]]
+binding = "DB"
+database_name = "trade_portfolio_db"
+database_id = "6bf1ce82-668c-440f-b2bb-f106b3ec0445"
+migrations_dir = "migrations"
