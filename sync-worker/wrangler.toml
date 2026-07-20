@@ -2,12 +2,12 @@ name = "trade-portfolio-sync"
 main = "src/index.ts"
 compatibility_date = "2026-07-15"
 
-[[d1_databases]]
-binding = "DB"
-database_name = "trade_portfolio_db"
-# Must match the root wrangler.toml's database_id exactly — same database.
-database_id = "00000000-0000-0000-0000-000000000001"
+# D1 Database binding (disabled for Pages deployment - app uses Supabase instead)
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "trade_portfolio_db"
+# database_id = "your-actual-database-id"
 
 # 9:00 AM IST daily — comfortably after both brokers' ~7AM IST token/session reset.
-[triggers]
-crons = ["30 3 * * *"]
+# [triggers]
+# crons = ["30 3 * * *"]
