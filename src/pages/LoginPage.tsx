@@ -29,8 +29,8 @@ export function LoginPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#0a0e27] via-[#1e293b] to-[#0a0e27] flex items-center justify-center p-4">
-      <div className="card-premium w-full max-w-md">
+    <div className="min-h-screen bg-gradient-to-br from-[#0a0e27] via-[#1e293b] to-[#0a0e27] flex items-center justify-center p-4 relative z-0">
+      <div className="card-premium w-full max-w-md relative z-10">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-[#f8fafc] mb-2">Trade Portfolio</h1>
           <p className="text-[#94a3b8]">{isSignUp ? 'Create account' : 'Sign in to dashboard'}</p>
