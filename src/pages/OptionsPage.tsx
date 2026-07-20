@@ -138,10 +138,10 @@ export function OptionsPage() {
               </thead>
               <tbody>
                 {closed.map((t) => (
-                  <tr key={t.id} className="border-b border-slate-100 last:border-0">
+                  <tr key={t.id} className="border-b border-slate-100 last:border-0 text-slate-900">
                     <td className="px-3 py-2">
                       {t.underlying} {t.strikePrice} {t.optionType}{' '}
-                      <span className="text-slate-400">(exp {formatDate(t.expiryDate)})</span>
+                      <span className="text-slate-500">(exp {formatDate(t.expiryDate)})</span>
                     </td>
                     <td className="px-3 py-2 text-right">{formatCurrency(t.entryPrice)}</td>
                     <td className="px-3 py-2 text-right">{formatCurrency(t.exitPrice)}</td>

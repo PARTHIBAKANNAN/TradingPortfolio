@@ -3,7 +3,7 @@ import type { ReactNode } from 'react'
 export function FormField({ label, children }: { label: string; children: ReactNode }) {
   return (
     <label className="flex flex-col gap-1 text-sm">
-      <span className="font-medium text-[#cbd5e1]">{label}</span>
+      <span className="font-medium text-slate-700">{label}</span>
       {children}
     </label>
   )

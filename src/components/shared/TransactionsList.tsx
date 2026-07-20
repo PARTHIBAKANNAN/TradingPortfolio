@@ -51,7 +51,7 @@ export function TransactionsList<T extends { id: number }>({
         <tbody>
           {[...transactions].reverse().map((t) => (
             <Fragment key={t.id}>
-              <tr>
+              <tr className="text-slate-900">
                 {columns.map((col) => (
                   <td key={col.header} className={`${col.align === 'right' ? 'text-right' : 'text-left'}`}>
                     {col.render(t)}
