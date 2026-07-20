@@ -12,25 +12,26 @@ import type { DashboardResponse } from '../../shared/types.ts'
 import { getPresetRange } from '../../shared/dateUtils.ts'
 
 export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
-  const url = new URL(request.url)
-  const defaultRange = getPresetRange('thisMonth')
-  const from = url.searchParams.get('from') ?? defaultRange.from
-  const to = url.searchParams.get('to') ?? defaultRange.to
+  try {
+    const url = new URL(request.url)
+    const defaultRange = getPresetRange('thisMonth')
+    const from = url.searchParams.get('from') ?? defaultRange.from
+    const to = url.searchParams.get('to') ?? defaultRange.to
 
-  if (from > to) return errorResponse('"from" date must not be after "to" date')
+    if (from > to) return errorResponse('"from" date must not be after "to" date')
 
-  const inRange = (date: string) => date >= from && date <= to
+    const inRange = (date: string) => date >= from && date <= to
 
-  const [stockTxs, metalTxs, optionTrades, intradayTrades, expenses, stockHoldings, metalHoldings] =
-    await Promise.all([
-      listStockTransactions(env.DB),
-      listMetalTransactions(env.DB),
-      listOptionTrades(env.DB),
-      listIntradayTrades(env.DB),
-      listExpenses(env.DB),
-      computeStockHoldings(env),
-      computeMetalHoldings(env),
-    ])
+    const [stockTxs, metalTxs, optionTrades, intradayTrades, expenses, stockHoldings, metalHoldings] =
+      await Promise.all([
+        listStockTransactions(env.DB),
+        listMetalTransactions(env.DB),
+        listOptionTrades(env.DB),
+        listIntradayTrades(env.DB),
+        listExpenses(env.DB),
+        computeStockHoldings(env),
+        computeMetalHoldings(env),
+      ])
 
   const realizedStocks = stockTxs
     .filter((t) => t.tradeType === 'SELL' && inRange(t.tradeDate))
@@ -94,5 +95,9 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
     },
   }
 
-  return json(response)
+    return json(response)
+  } catch (error) {
+    console.error('Dashboard API error:', error)
+    return errorResponse(`Internal Server Error: ${error instanceof Error ? error.message : String(error)}`)
+  }
 }
